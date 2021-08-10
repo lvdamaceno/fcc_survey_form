@@ -1,0 +1,55 @@
+body {
+  background-image: url('https://blog.cronapp.io/wp-content/uploads/2021/01/lowcode-vs-nocode-scaled.jpeg');
+}
+main {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2em;
+  color: white;
+}
+header {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+#survey-bg {
+  background-color: gray;
+  margin: auto;
+  width: 600px;
+  padding: 10px;
+  background: rgba(0%, 0%, 0%, 0.5);
+  border-radius: 10px;
+}
+#survey {
+  margin: auto;
+  width: 90%;
+  padding-bottom: 20px;
+}
+.form-labels {
+  display: block;
+  padding: 20px 0 20px 0;
+}
+.inputtxt {
+  padding: 10px;
+  width: 520px;
+}
+#dropdown {
+  padding: 10px;
+  width: 545px;
+  color: gray;
+}
+.radiolist {
+  position: relative;
+  left: -14px;
+}
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 540px;
+}
